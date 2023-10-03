@@ -16,8 +16,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Add icons and links to your preferred programming languages and tools here -->
-  <!-- Example: <a href="https://example.com" target="_blank"> <img src="example-icon-url" alt="example" width="40" height="40"/> </a> -->
+  <a href="#" target="_blank"> <img src="c-logo-url" alt="C" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="cpp-logo-url" alt="C++" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="java-logo-url" alt="Java" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="html-logo-url" alt="HTML" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="css-logo-url" alt="CSS" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="js-logo-url" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="php-logo-url" alt="PHP" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="nodejs-logo-url" alt="Node.js" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="expressjs-logo-url" alt="Express.js" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="git-logo-url" alt="Git" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="github-logo-url" alt="GitHub" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="wordpress-logo-url" alt="WordPress" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="photoshop-logo-url" alt="Adobe Photoshop" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="illustrator-logo-url" alt="Adobe Illustrator" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
